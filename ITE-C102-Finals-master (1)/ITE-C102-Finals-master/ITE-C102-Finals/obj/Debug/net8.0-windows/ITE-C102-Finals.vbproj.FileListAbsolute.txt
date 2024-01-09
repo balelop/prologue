@@ -1,0 +1,17 @@
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\bin\Debug\net8.0-windows\ITE-C102-Finals.exe
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\bin\Debug\net8.0-windows\ITE-C102-Finals.deps.json
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\bin\Debug\net8.0-windows\ITE-C102-Finals.runtimeconfig.json
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\bin\Debug\net8.0-windows\ITE-C102-Finals.dll
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\bin\Debug\net8.0-windows\ITE-C102-Finals.pdb
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE_C102_Finals.Form1.resources
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE_C102_Finals.Resources.resources
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.vbproj.GenerateResource.cache
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.AssemblyInfo.vb
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.vbproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.dll
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\refint\ITE-C102-Finals.dll
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.pdb
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ITE-C102-Finals.genruntimeconfig.cache
+C:\Users\user\Downloads\ITE-C102-Finals-master (1)\ITE-C102-Finals-master\ITE-C102-Finals\obj\Debug\net8.0-windows\ref\ITE-C102-Finals.dll

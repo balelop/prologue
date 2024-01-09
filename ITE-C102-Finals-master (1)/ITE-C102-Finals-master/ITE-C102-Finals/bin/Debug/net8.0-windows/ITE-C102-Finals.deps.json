@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ITE-C102-Finals/1.0.0": {
+        "runtime": {
+          "ITE-C102-Finals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITE-C102-Finals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
